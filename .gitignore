@@ -1,0 +1,6 @@
+node_modules/
+.env
+.last-seen-state.json
+.notion-schema-cache.json
+*.log
+

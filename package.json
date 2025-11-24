@@ -1,0 +1,19 @@
+{
+  "name": "limitless-starred-sync",
+  "version": "1.0.0",
+  "description": "Service to sync starred Limitless lifelogs to Notion database",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": ["limitless", "notion", "sync", "lifelogs"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "openai": "^4.20.1"
+  }
+}
+

@@ -1,0 +1,1003 @@
+      {
+        "contents": [
+          {
+            "content": "Adam Olson's Day and Vaping Discussion",
+            "type": "heading1"
+          },
+          {
+            "content": "Sports Game and Weather",
+            "type": "heading2"
+          },
+          {
+            "content": "Last time we looked at the score it was 7 to 21. And they won 24 21. Now I'm mad I didn't watch it.",
+            "endOffsetMs": 12000,
+            "endTime": "2025-11-24T00:58:01+00:00",
+            "speakerName": "Unknown",
+            "startOffsetMs": 0,
+            "startTime": "2025-11-24T00:57:49+00:00",
+            "type": "blockquote"
+          },
+          {
+            "content": "Yeah.",
+            "endOffsetMs": 36001,
+            "endTime": "2025-11-24T00:58:25+00:00",
+            "speakerName": "Unknown",
+            "startOffsetMs": 36000,
+            "startTime": "2025-11-24T00:58:25+00:00",
+            "type": "blockquote"
+          },
+          {
+ 
+No new starred lifelogs found
+[2025-11-24T03:28:02.438Z] Polling for starred lifelogs since 2025-11-24T00:42:09.516Z
+Unexpected API response structure. Response keys: [ 'data', 'meta' ]
+Full response (first 1000 chars): {
+  "data": {
+    "lifelogs": [
+      {
+        "contents": [
+          {
+            "content": "Adam Olson's Day and Vaping Discussion",
+            "type": "heading1"
+          },
+          {
+            "content": "Sports Game and Weather",
+            "type": "heading2"
+          },
+          {
+            "content": "Last time we looked at the score it was 7 to 21. And they won 24 21. Now I'm mad I didn't watch it.",
+            "endOffsetMs": 12000,
+            "endTime": "2025-11-24T00:58:01+00:00",
+            "speakerName": "Unknown",
+            "startOffsetMs": 0,
+            "startTime": "2025-11-24T00:57:49+00:00",
+            "type": "blockquote"
+          },
+          {
+            "content": "Yeah.",
+            "endOffsetMs": 36001,
+            "endTime": "2025-11-24T00:58:25+00:00",
+            "speakerName": "Unknown",
+            "startOffsetMs": 36000,
+            "startTime": "2025-11-24T00:58:25+00:00",
+            "type": "blockquote"
+          },
+          {
+ 
+No new starred lifelogs found
+[2025-11-24T03:28:32.440Z] Polling for starred lifelogs since 2025-11-24T00:42:09.516Z
+Unexpected API response structure. Response keys: [ 'data', 'meta' ]
+Full response (first 1000 chars): {
+  "data": {
+    "lifelogs": [
+      {
+        "contents": [
+          {
+            "content": "Adam Olson's Day and Vaping Discussion",
+            "type": "heading1"
+          },
+          {
+            "content": "Sports Game and Weather",
+            "type": "heading2"
+          },
+          {
+            "content": "Last time we looked at the score it was 7 to 21. And they won 24 21. Now I'm mad I didn't watch it.",
+            "endOffsetMs": 12000,
+            "endTime": "2025-11-24T00:58:01+00:00",
+            "speakerName": "Unknown",
+            "startOffsetMs": 0,
+            "startTime": "2025-11-24T00:57:49+00:00",
+            "type": "blockquote"
+          },
+          {
+            "content": "Yeah.",
+            "endOffsetMs": 36001,
+            "endTime": "2025-11-24T00:58:25+00:00",
+            "speakerName": "Unknown",
+            "startOffsetMs": 36000,
+            "startTime": "2025-11-24T00:58:25+00:00",
+            "type": "blockquote"
+          },
+          {
+ 
+No new starred lifelogs found
+[2025-11-24T03:29:02.441Z] Polling for starred lifelogs since 2025-11-24T00:42:09.516Z
+Unexpected API response structure. Response keys: [ 'data', 'meta' ]
+Full response (first 1000 chars): {
+  "data": {
+    "lifelogs": [
+      {
+        "contents": [
+          {
+            "content": "Adam Olson's Day and Vaping Discussion",
+            "type": "heading1"
+          },
+          {
+            "content": "Sports Game and Weather",
+            "type": "heading2"
+          },
+          {
+            "content": "Last time we looked at the score it was 7 to 21. And they won 24 21. Now I'm mad I didn't watch it.",
+            "endOffsetMs": 12000,
+            "endTime": "2025-11-24T00:58:01+00:00",
+            "speakerName": "Unknown",
+            "startOffsetMs": 0,
+            "startTime": "2025-11-24T00:57:49+00:00",
+            "type": "blockquote"
+          },
+          {
+            "content": "Yeah.",
+            "endOffsetMs": 36001,
+            "endTime": "2025-11-24T00:58:25+00:00",
+            "speakerName": "Unknown",
+            "startOffsetMs": 36000,
+            "startTime": "2025-11-24T00:58:25+00:00",
+            "type": "blockquote"
+          },
+          {
+ 
+No new starred lifelogs found
+[2025-11-24T03:29:32.441Z] Polling for starred lifelogs since 2025-11-24T00:42:09.516Z
+Unexpected API response structure. Response keys: [ 'data', 'meta' ]
+Full response (first 1000 chars): {
+  "data": {
+    "lifelogs": [
+      {
+        "contents": [
+          {
+            "content": "Adam Olson's Day and Vaping Discussion",
+            "type": "heading1"
+          },
+          {
+            "content": "Sports Game and Weather",
+            "type": "heading2"
+          },
+          {
+            "content": "Last time we looked at the score it was 7 to 21. And they won 24 21. Now I'm mad I didn't watch it.",
+            "endOffsetMs": 12000,
+            "endTime": "2025-11-24T00:58:01+00:00",
+            "speakerName": "Unknown",
+            "startOffsetMs": 0,
+            "startTime": "2025-11-24T00:57:49+00:00",
+            "type": "blockquote"
+          },
+          {
+            "content": "Yeah.",
+            "endOffsetMs": 36001,
+            "endTime": "2025-11-24T00:58:25+00:00",
+            "speakerName": "Unknown",
+            "startOffsetMs": 36000,
+            "startTime": "2025-11-24T00:58:25+00:00",
+            "type": "blockquote"
+          },
+          {
+ 
+No new starred lifelogs found
+[2025-11-24T03:30:02.442Z] Polling for starred lifelogs since 2025-11-24T00:42:09.516Z
+Unexpected API response structure. Response keys: [ 'data', 'meta' ]
+Full response (first 1000 chars): {
+  "data": {
+    "lifelogs": [
+      {
+        "contents": [
+          {
+            "content": "Adam Olson's Day and Vaping Discussion",
+            "type": "heading1"
+          },
+          {
+            "content": "Sports Game and Weather",
+            "type": "heading2"
+          },
+          {
+            "content": "Last time we looked at the score it was 7 to 21. And they won 24 21. Now I'm mad I didn't watch it.",
+            "endOffsetMs": 12000,
+            "endTime": "2025-11-24T00:58:01+00:00",
+            "speakerName": "Unknown",
+            "startOffsetMs": 0,
+            "startTime": "2025-11-24T00:57:49+00:00",
+            "type": "blockquote"
+          },
+          {
+            "content": "Yeah.",
+            "endOffsetMs": 36001,
+            "endTime": "2025-11-24T00:58:25+00:00",
+            "speakerName": "Unknown",
+            "startOffsetMs": 36000,
+            "startTime": "2025-11-24T00:58:25+00:00",
+            "type": "blockquote"
+          },
+          {
+ 
+No new starred lifelogs found
+[2025-11-24T03:30:32.446Z] Polling for starred lifelogs since 2025-11-24T00:42:09.516Z
+Unexpected API response structure. Response keys: [ 'data', 'meta' ]
+Full response (first 1000 chars): {
+  "data": {
+    "lifelogs": [
+      {
+        "contents": [
+          {
+            "content": "Adam Olson's Day and Vaping Discussion",
+            "type": "heading1"
+          },
+          {
+            "content": "Sports Game and Weather",
+            "type": "heading2"
+          },
+          {
+            "content": "Last time we looked at the score it was 7 to 21. And they won 24 21. Now I'm mad I didn't watch it.",
+            "endOffsetMs": 12000,
+            "endTime": "2025-11-24T00:58:01+00:00",
+            "speakerName": "Unknown",
+            "startOffsetMs": 0,
+            "startTime": "2025-11-24T00:57:49+00:00",
+            "type": "blockquote"
+          },
+          {
+            "content": "Yeah.",
+            "endOffsetMs": 36001,
+            "endTime": "2025-11-24T00:58:25+00:00",
+            "speakerName": "Unknown",
+            "startOffsetMs": 36000,
+            "startTime": "2025-11-24T00:58:25+00:00",
+            "type": "blockquote"
+          },
+          {
+ 
+No new starred lifelogs found
+[2025-11-24T03:31:02.445Z] Polling for starred lifelogs since 2025-11-24T00:42:09.516Z
+Unexpected API response structure. Response keys: [ 'data', 'meta' ]
+Full response (first 1000 chars): {
+  "data": {
+    "lifelogs": [
+      {
+        "contents": [
+          {
+            "content": "Adam Olson's Day and Vaping Discussion",
+            "type": "heading1"
+          },
+          {
+            "content": "Sports Game and Weather",
+            "type": "heading2"
+          },
+          {
+            "content": "Last time we looked at the score it was 7 to 21. And they won 24 21. Now I'm mad I didn't watch it.",
+            "endOffsetMs": 12000,
+            "endTime": "2025-11-24T00:58:01+00:00",
+            "speakerName": "Unknown",
+            "startOffsetMs": 0,
+            "startTime": "2025-11-24T00:57:49+00:00",
+            "type": "blockquote"
+          },
+          {
+            "content": "Yeah.",
+            "endOffsetMs": 36001,
+            "endTime": "2025-11-24T00:58:25+00:00",
+            "speakerName": "Unknown",
+            "startOffsetMs": 36000,
+            "startTime": "2025-11-24T00:58:25+00:00",
+            "type": "blockquote"
+          },
+          {
+ 
+No new starred lifelogs found
+[2025-11-24T03:31:32.446Z] Polling for starred lifelogs since 2025-11-24T00:42:09.516Z
+Unexpected API response structure. Response keys: [ 'data', 'meta' ]
+Full response (first 1000 chars): {
+  "data": {
+    "lifelogs": [
+      {
+        "contents": [
+          {
+            "content": "Adam Olson's Day and Vaping Discussion",
+            "type": "heading1"
+          },
+          {
+            "content": "Sports Game and Weather",
+            "type": "heading2"
+          },
+          {
+            "content": "Last time we looked at the score it was 7 to 21. And they won 24 21. Now I'm mad I didn't watch it.",
+            "endOffsetMs": 12000,
+            "endTime": "2025-11-24T00:58:01+00:00",
+            "speakerName": "Unknown",
+            "startOffsetMs": 0,
+            "startTime": "2025-11-24T00:57:49+00:00",
+            "type": "blockquote"
+          },
+          {
+            "content": "Yeah.",
+            "endOffsetMs": 36001,
+            "endTime": "2025-11-24T00:58:25+00:00",
+            "speakerName": "Unknown",
+            "startOffsetMs": 36000,
+            "startTime": "2025-11-24T00:58:25+00:00",
+            "type": "blockquote"
+          },
+          {
+ 
+No new starred lifelogs found
+[2025-11-24T03:32:02.447Z] Polling for starred lifelogs since 2025-11-24T00:42:09.516Z
+Unexpected API response structure. Response keys: [ 'data', 'meta' ]
+Full response (first 1000 chars): {
+  "data": {
+    "lifelogs": [
+      {
+        "contents": [
+          {
+            "content": "Adam Olson's Day and Vaping Discussion",
+            "type": "heading1"
+          },
+          {
+            "content": "Sports Game and Weather",
+            "type": "heading2"
+          },
+          {
+            "content": "Last time we looked at the score it was 7 to 21. And they won 24 21. Now I'm mad I didn't watch it.",
+            "endOffsetMs": 12000,
+            "endTime": "2025-11-24T00:58:01+00:00",
+            "speakerName": "Unknown",
+            "startOffsetMs": 0,
+            "startTime": "2025-11-24T00:57:49+00:00",
+            "type": "blockquote"
+          },
+          {
+            "content": "Yeah.",
+            "endOffsetMs": 36001,
+            "endTime": "2025-11-24T00:58:25+00:00",
+            "speakerName": "Unknown",
+            "startOffsetMs": 36000,
+            "startTime": "2025-11-24T00:58:25+00:00",
+            "type": "blockquote"
+          },
+          {
+ 
+No new starred lifelogs found
+[2025-11-24T03:32:32.448Z] Polling for starred lifelogs since 2025-11-24T00:42:09.516Z
+Unexpected API response structure. Response keys: [ 'data', 'meta' ]
+Full response (first 1000 chars): {
+  "data": {
+    "lifelogs": [
+      {
+        "contents": [
+          {
+            "content": "Adam Olson's Day and Vaping Discussion",
+            "type": "heading1"
+          },
+          {
+            "content": "Sports Game and Weather",
+            "type": "heading2"
+          },
+          {
+            "content": "Last time we looked at the score it was 7 to 21. And they won 24 21. Now I'm mad I didn't watch it.",
+            "endOffsetMs": 12000,
+            "endTime": "2025-11-24T00:58:01+00:00",
+            "speakerName": "Unknown",
+            "startOffsetMs": 0,
+            "startTime": "2025-11-24T00:57:49+00:00",
+            "type": "blockquote"
+          },
+          {
+            "content": "Yeah.",
+            "endOffsetMs": 36001,
+            "endTime": "2025-11-24T00:58:25+00:00",
+            "speakerName": "Unknown",
+            "startOffsetMs": 36000,
+            "startTime": "2025-11-24T00:58:25+00:00",
+            "type": "blockquote"
+          },
+          {
+ 
+No new starred lifelogs found
+[2025-11-24T03:33:02.450Z] Polling for starred lifelogs since 2025-11-24T00:42:09.516Z
+Unexpected API response structure. Response keys: [ 'data', 'meta' ]
+Full response (first 1000 chars): {
+  "data": {
+    "lifelogs": [
+      {
+        "contents": [
+          {
+            "content": "Adam Olson's Day and Vaping Discussion",
+            "type": "heading1"
+          },
+          {
+            "content": "Sports Game and Weather",
+            "type": "heading2"
+          },
+          {
+            "content": "Last time we looked at the score it was 7 to 21. And they won 24 21. Now I'm mad I didn't watch it.",
+            "endOffsetMs": 12000,
+            "endTime": "2025-11-24T00:58:01+00:00",
+            "speakerName": "Unknown",
+            "startOffsetMs": 0,
+            "startTime": "2025-11-24T00:57:49+00:00",
+            "type": "blockquote"
+          },
+          {
+            "content": "Yeah.",
+            "endOffsetMs": 36001,
+            "endTime": "2025-11-24T00:58:25+00:00",
+            "speakerName": "Unknown",
+            "startOffsetMs": 36000,
+            "startTime": "2025-11-24T00:58:25+00:00",
+            "type": "blockquote"
+          },
+          {
+ 
+No new starred lifelogs found
+[2025-11-24T03:33:32.450Z] Polling for starred lifelogs since 2025-11-24T00:42:09.516Z
+Unexpected API response structure. Response keys: [ 'data', 'meta' ]
+Full response (first 1000 chars): {
+  "data": {
+    "lifelogs": [
+      {
+        "contents": [
+          {
+            "content": "Adam Olson's Day and Vaping Discussion",
+            "type": "heading1"
+          },
+          {
+            "content": "Sports Game and Weather",
+            "type": "heading2"
+          },
+          {
+            "content": "Last time we looked at the score it was 7 to 21. And they won 24 21. Now I'm mad I didn't watch it.",
+            "endOffsetMs": 12000,
+            "endTime": "2025-11-24T00:58:01+00:00",
+            "speakerName": "Unknown",
+            "startOffsetMs": 0,
+            "startTime": "2025-11-24T00:57:49+00:00",
+            "type": "blockquote"
+          },
+          {
+            "content": "Yeah.",
+            "endOffsetMs": 36001,
+            "endTime": "2025-11-24T00:58:25+00:00",
+            "speakerName": "Unknown",
+            "startOffsetMs": 36000,
+            "startTime": "2025-11-24T00:58:25+00:00",
+            "type": "blockquote"
+          },
+          {
+ 
+No new starred lifelogs found
+[2025-11-24T03:34:02.451Z] Polling for starred lifelogs since 2025-11-24T00:42:09.516Z
+Unexpected API response structure. Response keys: [ 'data', 'meta' ]
+Full response (first 1000 chars): {
+  "data": {
+    "lifelogs": [
+      {
+        "contents": [
+          {
+            "content": "Adam Olson's Day and Vaping Discussion",
+            "type": "heading1"
+          },
+          {
+            "content": "Sports Game and Weather",
+            "type": "heading2"
+          },
+          {
+            "content": "Last time we looked at the score it was 7 to 21. And they won 24 21. Now I'm mad I didn't watch it.",
+            "endOffsetMs": 12000,
+            "endTime": "2025-11-24T00:58:01+00:00",
+            "speakerName": "Unknown",
+            "startOffsetMs": 0,
+            "startTime": "2025-11-24T00:57:49+00:00",
+            "type": "blockquote"
+          },
+          {
+            "content": "Yeah.",
+            "endOffsetMs": 36001,
+            "endTime": "2025-11-24T00:58:25+00:00",
+            "speakerName": "Unknown",
+            "startOffsetMs": 36000,
+            "startTime": "2025-11-24T00:58:25+00:00",
+            "type": "blockquote"
+          },
+          {
+ 
+No new starred lifelogs found
+[2025-11-24T03:34:32.452Z] Polling for starred lifelogs since 2025-11-24T00:42:09.516Z
+Unexpected API response structure. Response keys: [ 'data', 'meta' ]
+Full response (first 1000 chars): {
+  "data": {
+    "lifelogs": [
+      {
+        "contents": [
+          {
+            "content": "Adam Olson's Day and Vaping Discussion",
+            "type": "heading1"
+          },
+          {
+            "content": "Sports Game and Weather",
+            "type": "heading2"
+          },
+          {
+            "content": "Last time we looked at the score it was 7 to 21. And they won 24 21. Now I'm mad I didn't watch it.",
+            "endOffsetMs": 12000,
+            "endTime": "2025-11-24T00:58:01+00:00",
+            "speakerName": "Unknown",
+            "startOffsetMs": 0,
+            "startTime": "2025-11-24T00:57:49+00:00",
+            "type": "blockquote"
+          },
+          {
+            "content": "Yeah.",
+            "endOffsetMs": 36001,
+            "endTime": "2025-11-24T00:58:25+00:00",
+            "speakerName": "Unknown",
+            "startOffsetMs": 36000,
+            "startTime": "2025-11-24T00:58:25+00:00",
+            "type": "blockquote"
+          },
+          {
+ 
+No new starred lifelogs found
+[2025-11-24T03:35:02.455Z] Polling for starred lifelogs since 2025-11-24T00:42:09.516Z
+Unexpected API response structure. Response keys: [ 'data', 'meta' ]
+Full response (first 1000 chars): {
+  "data": {
+    "lifelogs": [
+      {
+        "contents": [
+          {
+            "content": "Adam Olson's Day and Vaping Discussion",
+            "type": "heading1"
+          },
+          {
+            "content": "Sports Game and Weather",
+            "type": "heading2"
+          },
+          {
+            "content": "Last time we looked at the score it was 7 to 21. And they won 24 21. Now I'm mad I didn't watch it.",
+            "endOffsetMs": 12000,
+            "endTime": "2025-11-24T00:58:01+00:00",
+            "speakerName": "Unknown",
+            "startOffsetMs": 0,
+            "startTime": "2025-11-24T00:57:49+00:00",
+            "type": "blockquote"
+          },
+          {
+            "content": "Yeah.",
+            "endOffsetMs": 36001,
+            "endTime": "2025-11-24T00:58:25+00:00",
+            "speakerName": "Unknown",
+            "startOffsetMs": 36000,
+            "startTime": "2025-11-24T00:58:25+00:00",
+            "type": "blockquote"
+          },
+          {
+ 
+No new starred lifelogs found
+[2025-11-24T03:35:32.457Z] Polling for starred lifelogs since 2025-11-24T00:42:09.516Z
+Unexpected API response structure. Response keys: [ 'data', 'meta' ]
+Full response (first 1000 chars): {
+  "data": {
+    "lifelogs": [
+      {
+        "contents": [
+          {
+            "content": "Adam Olson's Day and Vaping Discussion",
+            "type": "heading1"
+          },
+          {
+            "content": "Sports Game and Weather",
+            "type": "heading2"
+          },
+          {
+            "content": "Last time we looked at the score it was 7 to 21. And they won 24 21. Now I'm mad I didn't watch it.",
+            "endOffsetMs": 12000,
+            "endTime": "2025-11-24T00:58:01+00:00",
+            "speakerName": "Unknown",
+            "startOffsetMs": 0,
+            "startTime": "2025-11-24T00:57:49+00:00",
+            "type": "blockquote"
+          },
+          {
+            "content": "Yeah.",
+            "endOffsetMs": 36001,
+            "endTime": "2025-11-24T00:58:25+00:00",
+            "speakerName": "Unknown",
+            "startOffsetMs": 36000,
+            "startTime": "2025-11-24T00:58:25+00:00",
+            "type": "blockquote"
+          },
+          {
+ 
+No new starred lifelogs found
+[2025-11-24T03:36:02.457Z] Polling for starred lifelogs since 2025-11-24T00:42:09.516Z
+Unexpected API response structure. Response keys: [ 'data', 'meta' ]
+Full response (first 1000 chars): {
+  "data": {
+    "lifelogs": [
+      {
+        "contents": [
+          {
+            "content": "Adam Olson's Day and Vaping Discussion",
+            "type": "heading1"
+          },
+          {
+            "content": "Sports Game and Weather",
+            "type": "heading2"
+          },
+          {
+            "content": "Last time we looked at the score it was 7 to 21. And they won 24 21. Now I'm mad I didn't watch it.",
+            "endOffsetMs": 12000,
+            "endTime": "2025-11-24T00:58:01+00:00",
+            "speakerName": "Unknown",
+            "startOffsetMs": 0,
+            "startTime": "2025-11-24T00:57:49+00:00",
+            "type": "blockquote"
+          },
+          {
+            "content": "Yeah.",
+            "endOffsetMs": 36001,
+            "endTime": "2025-11-24T00:58:25+00:00",
+            "speakerName": "Unknown",
+            "startOffsetMs": 36000,
+            "startTime": "2025-11-24T00:58:25+00:00",
+            "type": "blockquote"
+          },
+          {
+ 
+No new starred lifelogs found
+[2025-11-24T03:36:32.455Z] Polling for starred lifelogs since 2025-11-24T00:42:09.516Z
+Unexpected API response structure. Response keys: [ 'data', 'meta' ]
+Full response (first 1000 chars): {
+  "data": {
+    "lifelogs": [
+      {
+        "contents": [
+          {
+            "content": "Adam Olson's Day and Vaping Discussion",
+            "type": "heading1"
+          },
+          {
+            "content": "Sports Game and Weather",
+            "type": "heading2"
+          },
+          {
+            "content": "Last time we looked at the score it was 7 to 21. And they won 24 21. Now I'm mad I didn't watch it.",
+            "endOffsetMs": 12000,
+            "endTime": "2025-11-24T00:58:01+00:00",
+            "speakerName": "Unknown",
+            "startOffsetMs": 0,
+            "startTime": "2025-11-24T00:57:49+00:00",
+            "type": "blockquote"
+          },
+          {
+            "content": "Yeah.",
+            "endOffsetMs": 36001,
+            "endTime": "2025-11-24T00:58:25+00:00",
+            "speakerName": "Unknown",
+            "startOffsetMs": 36000,
+            "startTime": "2025-11-24T00:58:25+00:00",
+            "type": "blockquote"
+          },
+          {
+ 
+No new starred lifelogs found
+[2025-11-24T03:37:02.458Z] Polling for starred lifelogs since 2025-11-24T00:42:09.516Z
+Unexpected API response structure. Response keys: [ 'data', 'meta' ]
+Full response (first 1000 chars): {
+  "data": {
+    "lifelogs": [
+      {
+        "contents": [
+          {
+            "content": "Adam Olson's Day and Vaping Discussion",
+            "type": "heading1"
+          },
+          {
+            "content": "Sports Game and Weather",
+            "type": "heading2"
+          },
+          {
+            "content": "Last time we looked at the score it was 7 to 21. And they won 24 21. Now I'm mad I didn't watch it.",
+            "endOffsetMs": 12000,
+            "endTime": "2025-11-24T00:58:01+00:00",
+            "speakerName": "Unknown",
+            "startOffsetMs": 0,
+            "startTime": "2025-11-24T00:57:49+00:00",
+            "type": "blockquote"
+          },
+          {
+            "content": "Yeah.",
+            "endOffsetMs": 36001,
+            "endTime": "2025-11-24T00:58:25+00:00",
+            "speakerName": "Unknown",
+            "startOffsetMs": 36000,
+            "startTime": "2025-11-24T00:58:25+00:00",
+            "type": "blockquote"
+          },
+          {
+ 
+No new starred lifelogs found
+[2025-11-24T03:37:32.458Z] Polling for starred lifelogs since 2025-11-24T00:42:09.516Z
+Unexpected API response structure. Response keys: [ 'data', 'meta' ]
+Full response (first 1000 chars): {
+  "data": {
+    "lifelogs": [
+      {
+        "contents": [
+          {
+            "content": "Adam Olson's Day and Vaping Discussion",
+            "type": "heading1"
+          },
+          {
+            "content": "Sports Game and Weather",
+            "type": "heading2"
+          },
+          {
+            "content": "Last time we looked at the score it was 7 to 21. And they won 24 21. Now I'm mad I didn't watch it.",
+            "endOffsetMs": 12000,
+            "endTime": "2025-11-24T00:58:01+00:00",
+            "speakerName": "Unknown",
+            "startOffsetMs": 0,
+            "startTime": "2025-11-24T00:57:49+00:00",
+            "type": "blockquote"
+          },
+          {
+            "content": "Yeah.",
+            "endOffsetMs": 36001,
+            "endTime": "2025-11-24T00:58:25+00:00",
+            "speakerName": "Unknown",
+            "startOffsetMs": 36000,
+            "startTime": "2025-11-24T00:58:25+00:00",
+            "type": "blockquote"
+          },
+          {
+ 
+No new starred lifelogs found
+[2025-11-24T03:38:02.459Z] Polling for starred lifelogs since 2025-11-24T00:42:09.516Z
+Unexpected API response structure. Response keys: [ 'data', 'meta' ]
+Full response (first 1000 chars): {
+  "data": {
+    "lifelogs": [
+      {
+        "contents": [
+          {
+            "content": "Adam Olson's Day and Vaping Discussion",
+            "type": "heading1"
+          },
+          {
+            "content": "Sports Game and Weather",
+            "type": "heading2"
+          },
+          {
+            "content": "Last time we looked at the score it was 7 to 21. And they won 24 21. Now I'm mad I didn't watch it.",
+            "endOffsetMs": 12000,
+            "endTime": "2025-11-24T00:58:01+00:00",
+            "speakerName": "Unknown",
+            "startOffsetMs": 0,
+            "startTime": "2025-11-24T00:57:49+00:00",
+            "type": "blockquote"
+          },
+          {
+            "content": "Yeah.",
+            "endOffsetMs": 36001,
+            "endTime": "2025-11-24T00:58:25+00:00",
+            "speakerName": "Unknown",
+            "startOffsetMs": 36000,
+            "startTime": "2025-11-24T00:58:25+00:00",
+            "type": "blockquote"
+          },
+          {
+ 
+No new starred lifelogs found
+[2025-11-24T03:38:32.461Z] Polling for starred lifelogs since 2025-11-24T00:42:09.516Z
+Unexpected API response structure. Response keys: [ 'data', 'meta' ]
+Full response (first 1000 chars): {
+  "data": {
+    "lifelogs": [
+      {
+        "contents": [
+          {
+            "content": "Adam Olson's Day and Vaping Discussion",
+            "type": "heading1"
+          },
+          {
+            "content": "Sports Game and Weather",
+            "type": "heading2"
+          },
+          {
+            "content": "Last time we looked at the score it was 7 to 21. And they won 24 21. Now I'm mad I didn't watch it.",
+            "endOffsetMs": 12000,
+            "endTime": "2025-11-24T00:58:01+00:00",
+            "speakerName": "Unknown",
+            "startOffsetMs": 0,
+            "startTime": "2025-11-24T00:57:49+00:00",
+            "type": "blockquote"
+          },
+          {
+            "content": "Yeah.",
+            "endOffsetMs": 36001,
+            "endTime": "2025-11-24T00:58:25+00:00",
+            "speakerName": "Unknown",
+            "startOffsetMs": 36000,
+            "startTime": "2025-11-24T00:58:25+00:00",
+            "type": "blockquote"
+          },
+          {
+ 
+No new starred lifelogs found
+[2025-11-24T03:39:02.463Z] Polling for starred lifelogs since 2025-11-24T00:42:09.516Z
+Unexpected API response structure. Response keys: [ 'data', 'meta' ]
+Full response (first 1000 chars): {
+  "data": {
+    "lifelogs": [
+      {
+        "contents": [
+          {
+            "content": "Adam Olson's Day and Vaping Discussion",
+            "type": "heading1"
+          },
+          {
+            "content": "Sports Game and Weather",
+            "type": "heading2"
+          },
+          {
+            "content": "Last time we looked at the score it was 7 to 21. And they won 24 21. Now I'm mad I didn't watch it.",
+            "endOffsetMs": 12000,
+            "endTime": "2025-11-24T00:58:01+00:00",
+            "speakerName": "Unknown",
+            "startOffsetMs": 0,
+            "startTime": "2025-11-24T00:57:49+00:00",
+            "type": "blockquote"
+          },
+          {
+            "content": "Yeah.",
+            "endOffsetMs": 36001,
+            "endTime": "2025-11-24T00:58:25+00:00",
+            "speakerName": "Unknown",
+            "startOffsetMs": 36000,
+            "startTime": "2025-11-24T00:58:25+00:00",
+            "type": "blockquote"
+          },
+          {
+ 
+No new starred lifelogs found
+[2025-11-24T03:39:32.463Z] Polling for starred lifelogs since 2025-11-24T00:42:09.516Z
+Unexpected API response structure. Response keys: [ 'data', 'meta' ]
+Full response (first 1000 chars): {
+  "data": {
+    "lifelogs": [
+      {
+        "contents": [
+          {
+            "content": "Adam Olson's Day and Vaping Discussion",
+            "type": "heading1"
+          },
+          {
+            "content": "Sports Game and Weather",
+            "type": "heading2"
+          },
+          {
+            "content": "Last time we looked at the score it was 7 to 21. And they won 24 21. Now I'm mad I didn't watch it.",
+            "endOffsetMs": 12000,
+            "endTime": "2025-11-24T00:58:01+00:00",
+            "speakerName": "Unknown",
+            "startOffsetMs": 0,
+            "startTime": "2025-11-24T00:57:49+00:00",
+            "type": "blockquote"
+          },
+          {
+            "content": "Yeah.",
+            "endOffsetMs": 36001,
+            "endTime": "2025-11-24T00:58:25+00:00",
+            "speakerName": "Unknown",
+            "startOffsetMs": 36000,
+            "startTime": "2025-11-24T00:58:25+00:00",
+            "type": "blockquote"
+          },
+          {
+ 
+No new starred lifelogs found
+[2025-11-24T03:40:02.466Z] Polling for starred lifelogs since 2025-11-24T00:42:09.516Z
+Unexpected API response structure. Response keys: [ 'data', 'meta' ]
+Full response (first 1000 chars): {
+  "data": {
+    "lifelogs": [
+      {
+        "contents": [
+          {
+            "content": "Adam Olson's Day and Vaping Discussion",
+            "type": "heading1"
+          },
+          {
+            "content": "Sports Game and Weather",
+            "type": "heading2"
+          },
+          {
+            "content": "Last time we looked at the score it was 7 to 21. And they won 24 21. Now I'm mad I didn't watch it.",
+            "endOffsetMs": 12000,
+            "endTime": "2025-11-24T00:58:01+00:00",
+            "speakerName": "Unknown",
+            "startOffsetMs": 0,
+            "startTime": "2025-11-24T00:57:49+00:00",
+            "type": "blockquote"
+          },
+          {
+            "content": "Yeah.",
+            "endOffsetMs": 36001,
+            "endTime": "2025-11-24T00:58:25+00:00",
+            "speakerName": "Unknown",
+            "startOffsetMs": 36000,
+            "startTime": "2025-11-24T00:58:25+00:00",
+            "type": "blockquote"
+          },
+          {
+ 
+No new starred lifelogs found
+[2025-11-24T03:40:32.467Z] Polling for starred lifelogs since 2025-11-24T00:42:09.516Z
+Unexpected API response structure. Response keys: [ 'data', 'meta' ]
+Full response (first 1000 chars): {
+  "data": {
+    "lifelogs": [
+      {
+        "contents": [
+          {
+            "content": "Adam Olson's Day and Vaping Discussion",
+            "type": "heading1"
+          },
+          {
+            "content": "Sports Game and Weather",
+            "type": "heading2"
+          },
+          {
+            "content": "Last time we looked at the score it was 7 to 21. And they won 24 21. Now I'm mad I didn't watch it.",
+            "endOffsetMs": 12000,
+            "endTime": "2025-11-24T00:58:01+00:00",
+            "speakerName": "Unknown",
+            "startOffsetMs": 0,
+            "startTime": "2025-11-24T00:57:49+00:00",
+            "type": "blockquote"
+          },
+          {
+            "content": "Yeah.",
+            "endOffsetMs": 36001,
+            "endTime": "2025-11-24T00:58:25+00:00",
+            "speakerName": "Unknown",
+            "startOffsetMs": 36000,
+            "startTime": "2025-11-24T00:58:25+00:00",
+            "type": "blockquote"
+          },
+          {
+ 
+No new starred lifelogs found
+[2025-11-24T03:41:02.467Z] Polling for starred lifelogs since 2025-11-24T00:42:09.516Z
+Unexpected API response structure. Response keys: [ 'data', 'meta' ]
+Full response (first 1000 chars): {
+  "data": {
+    "lifelogs": [
+      {
+        "contents": [
+          {
+            "content": "Adam Olson's Day and Vaping Discussion",
+            "type": "heading1"
+          },
+          {
+            "content": "Sports Game and Weather",
+            "type": "heading2"
+          },
+          {
+            "content": "Last time we looked at the score it was 7 to 21. And they won 24 21. Now I'm mad I didn't watch it.",
+            "endOffsetMs": 12000,
+            "endTime": "2025-11-24T00:58:01+00:00",
+            "speakerName": "Unknown",
+            "startOffsetMs": 0,
+            "startTime": "2025-11-24T00:57:49+00:00",
+            "type": "blockquote"
+          },
+          {
+            "content": "Yeah.",
+            "endOffsetMs": 36001,
+            "endTime": "2025-11-24T00:58:25+00:00",
+            "speakerName": "Unknown",
+            "startOffsetMs": 36000,
+            "startTime": "2025-11-24T00:58:25+00:00",
+            "type": "blockquote"
+          },
+          {
+ 
+No new starred lifelogs found
